@@ -1,0 +1,20 @@
+{
+  "name": "try-certificate-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-image": "^1.11.11",
+    "image-conversion": "^2.1.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-poppler": "^0.2.1",
+    "pdf2img": "^0.5.0",
+    "qrcode": "^1.5.3"
+  }
+}
